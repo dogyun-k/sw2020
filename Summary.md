@@ -8,7 +8,7 @@
 ### 교과목형
 -------------------
 - <a href = https://github.com/dogyun-k/RISC-V>ELEC326001 / 마이크로 프로세서 이론 및 실습 / 2020 / 2학기 / 조정훈</a>
-- <a href = https://github.com/dogyun-k/20-2-Assignments>COMP319001 / 알고리즘 / 2020 / 2학기 / 장길진</a>
+- <a href = https://github.com/dogyun-k/2020_2-Algorithms>COMP319001 / 알고리즘 / 2020 / 2학기 / 장길진</a>
 
 ### 경진대회형
 --------------------
