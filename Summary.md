@@ -1,5 +1,6 @@
 # Summary
 ------------------
+개인 공부를 위해 깃허브를 사용했습니다.
 
 # sw 2020
 ------------------
@@ -8,7 +9,6 @@
 -------------------
 - <a href = https://github.com/dogyun-k/RISC-V>ELEC326001 / 마이크로 프로세서 이론 및 실습 / 2020 / 2학기 / 조정훈</a>
 - <a href = https://github.com/dogyun-k/20-2-Assignments>COMP319001 / 알고리즘 / 2020 / 2학기 / 장길진</a>
-
 
 ### 경진대회형
 --------------------
@@ -21,3 +21,4 @@
 - <a href = https://github.com/dogyun-k/WEB>웹 - HTML / CSS</a>
 - <a href = https://github.com/dogyun-k/JavaScript>웹 - JS</a>
 - <a href = https://github.com/dogyun-k/Nodejs>웹 - Node.JS</a>
+- <a href = https://github.com/dogyun-k/How-to-use-GIT/blob/main/README.md>Git</a>
